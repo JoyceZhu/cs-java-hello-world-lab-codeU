@@ -1,112 +1,144 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="pletcher.local" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.289" timestamp="2016-03-15T15:44:25">
+<testsuite errors="0" failures="0" hostname="joyce-virtual-machine" name="com.flatironschool.javacs.HelloWorldTest" skipped="0" tests="1" time="0.092" timestamp="2016-03-18T00:20:18">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.SESSION_MANAGER" value="local/joyce-virtual-machine:@/tmp/.ICE-unix/2061,unix/joyce-virtual-machine:/tmp/.ICE-unix/2061" />
+    <property name="env.LESSOPEN" value="| /usr/bin/lesspipe %s" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
-    <property name="env.XPC_SERVICE_NAME" value="0" />
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
-    <property name="env.COLORFGBG" value="12;8" />
-    <property name="os.name" value="Mac OS X" />
-    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/classes" />
-    <property name="env.TMPDIR" value="/var/folders/8d/vpdn7q2d2pq61rx2bnyk5bl00000gn/T/" />
-    <property name="env.PWD" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
+    <property name="env._system_arch" value="x86_64" />
+    <property name="env.GEM_HOME" value="/home/joyce/.rvm/gems/ruby-2.2.1" />
+    <property name="os.name" value="Linux" />
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes" />
+    <property name="env.PWD" value="/home/joyce/CodeU/cs-java-hello-world-lab-codeU" />
+    <property name="env.XDG_SESSION_COOKIE" value="8cbb2bf0a66755dc3bc3ae11567b1f8c-1458252366.631817-431897894" />
+    <property name="sun.desktop" value="gnome" />
     <property name="env.LANG" value="en_US.UTF-8" />
-    <property name="env.LESS" value="-R" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
-    <property name="ant.home" value="/usr/local/Cellar/ant/1.9.6/libexec" />
-    <property name="java.runtime.version" value="1.8.0_74-b02" />
-    <property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.bSdYejpPFn/Render" />
-    <property name="user.name" value="pletcher" />
-    <property name="env.USER" value="pletcher" />
-    <property name="env.SHELL" value="/bin/zsh" />
-    <property name="env.__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0" />
-    <property name="env.PATH" value="/Users/pletcher/.rbenv/versions/2.3.0/bin:/usr/local/Cellar/rbenv/1.0.0/libexec:/Users/pletcher/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" />
+    <property name="ant.home" value="/usr/share/ant" />
+    <property name="java.runtime.version" value="1.7.0_95-b00" />
+    <property name="env.MY_RUBY_HOME" value="/home/joyce/.rvm/rubies/ruby-2.2.1" />
+    <property name="env.DEFAULTS_PATH" value="/usr/share/gconf/cinnamon.default.path" />
+    <property name="env.XDG_VTNR" value="7" />
+    <property name="env.DISPLAY" value=":0" />
+    <property name="env.rvm_version" value="1.26.11 (latest)" />
+    <property name="env.GJS_DEBUG_TOPICS" value="JS ERROR;JS LOG" />
+    <property name="user.name" value="joyce" />
+    <property name="env._" value="/home/joyce/.rvm/gems/ruby-2.2.1/bin/learn-test" />
+    <property name="env.USER" value="joyce" />
+    <property name="env.SHELL" value="/bin/bash" />
+    <property name="env.DESKTOP_SESSION" value="cinnamon" />
+    <property name="env.XDG_DATA_DIRS" value="/usr/share/cinnamon:/usr/share/gnome:/usr/local/share/:/usr/share/:/usr/share/mdm/" />
+    <property name="env.NODE_PATH" value="/usr/lib/nodejs:/usr/lib/node_modules:/usr/share/javascript" />
+    <property name="env.GJS_DEBUG_OUTPUT" value="stderr" />
+    <property name="env._system_type" value="Linux" />
+    <property name="env.PATH" value="/home/joyce/.rvm/gems/ruby-2.2.1/bin:/home/joyce/.rvm/gems/ruby-2.2.1@global/bin:/home/joyce/.rvm/rubies/ruby-2.2.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/joyce/.rvm/bin:/home/joyce/.rvm/bin" />
+    <property name="env.XDG_CURRENT_DESKTOP" value="X-Cinnamon" />
     <property name="user.language" value="en" />
-    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib" />
+    <property name="env.rvm_prefix" value="/home/joyce" />
+    <property name="env.XDG_SESSION_DESKTOP" value="cinnamon" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64" />
+    <property name="env.TEXTDOMAIN" value="im-config" />
     <property name="ant.project.default-target" value="build" />
-    <property name="env.XPC_FLAGS" value="0x0" />
     <property name="ant.project.name" value="JavaCS" />
-    <property name="env.LC_CTYPE" value="en_US.UTF-8" />
-    <property name="java.version" value="1.8.0_74" />
+    <property name="env.rvm_path" value="/home/joyce/.rvm" />
+    <property name="env.RUBY_VERSION" value="ruby-2.2.1" />
+    <property name="env.CINNAMON_VERSION" value="2.8.6" />
+    <property name="java.version" value="1.7.0_95" />
     <property name="user.timezone" value="" />
+    <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-cXQqfLwSfa,guid=2916a7188eb530830c65db1a56eb2a50" />
+    <property name="env.QT_STYLE_OVERRIDE" value="gtk" />
     <property name="sun.arch.data.model" value="64" />
-    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="env._system_name" value="Mint" />
+    <property name="env.SSH_AGENT_PID" value="2187" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/endorsed" />
     <property name="sun.cpu.isalist" value="" />
     <property name="sun.jnu.encoding" value="UTF-8" />
-    <property name="env.ITERM_SESSION_ID" value="w0t2p1:1EE13A33-D132-4FEA-A0DE-F53739370DC3" />
+    <property name="env.rvm_bin_path" value="/home/joyce/.rvm/bin" />
     <property name="file.encoding.pkg" value="sun.io" />
-    <property name="env.SHLVL" value="3" />
+    <property name="env.SHLVL" value="1" />
+    <property name="env.MDM_LANG" value="en_US.UTF-8" />
     <property name="file.separator" value="/" />
+    <property name="env._system_version" value="17.3" />
     <property name="java.specification.name" value="Java Platform API Specification" />
-    <property name="java.class.version" value="52.0" />
+    <property name="env.GNOME_DESKTOP_SESSION_ID" value="this-is-deprecated" />
+    <property name="java.class.version" value="51.0" />
+    <property name="env.GDMSESSION" value="cinnamon" />
     <property name="user.country" value="US" />
-    <property name="ant.file.JavaCS" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/build.xml" />
-    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre" />
-    <property name="env.ZSH" value="/Users/pletcher/.oh-my-zsh" />
+    <property name="env.GNOME_KEYRING_PID" value="1985" />
+    <property name="ant.file.JavaCS" value="/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/build.xml" />
+    <property name="java.home" value="/usr/lib/jvm/java-7-openjdk-amd64/jre" />
     <property name="java.vm.info" value="mixed mode" />
-    <property name="env.LOGNAME" value="pletcher" />
-    <property name="ant.file" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/build.xml" />
-    <property name="os.version" value="10.11.3" />
+    <property name="env.LOGNAME" value="joyce" />
+    <property name="ant.file" value="/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/build.xml" />
+    <property name="os.version" value="3.19.0-32-generic" />
     <property name="path.separator" value=":" />
-    <property name="java.vm.version" value="25.74-b02" />
-    <property name="env.RBENV_ROOT" value="/Users/pletcher/.rbenv" />
-    <property name="ant.library.dir" value="/usr/local/Cellar/ant/1.9.6/libexec/lib" />
+    <property name="java.vm.version" value="24.95-b01" />
+    <property name="env.TEXTDOMAINDIR" value="/usr/share/locale/" />
+    <property name="env.MDMSESSION" value="cinnamon" />
+    <property name="ant.library.dir" value="/usr/share/ant/lib" />
     <property name="junit.output.dir" value="junit" />
-    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
-    <property name="env.TERM" value="xterm-256color" />
-    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
-    <property name="env.RBENV_VERSION" value="2.3.0" />
-    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
-    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-    <property name="env.LSCOLORS" value="Gxfxcxdxbxegedabagacad" />
-    <property name="env.JAVA_MAIN_CLASS_4865" value="org.apache.tools.ant.launch.Launcher" />
-    <property name="user.home" value="/Users/pletcher" />
+    <property name="env.IRBRC" value="/home/joyce/.rvm/rubies/ruby-2.2.1/.irbrc" />
+    <property name="env.TERM" value="xterm" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="env.WINDOWPATH" value="7" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="env.GEM_PATH" value="/home/joyce/.rvm/gems/ruby-2.2.1:/home/joyce/.rvm/gems/ruby-2.2.1@global" />
+    <property name="user.home" value="/home/joyce" />
     <property name="target" value="1.6" />
-    <property name="env.RBENV_HOOK_PATH" value="/Users/pletcher/.rbenv/rbenv.d:/usr/local/Cellar/rbenv/1.0.0/rbenv.d:/usr/local/etc/rbenv.d:/etc/rbenv.d:/usr/lib/rbenv/hooks" />
+    <property name="env.OLDPWD" value="/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
-    <property name="env.TERM_PROGRAM" value="iTerm.app" />
-    <property name="env.PAGER" value="less" />
-    <property name="java.library.path" value="/Users/pletcher/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="env.WINDOWID" value="50331662" />
+    <property name="env.VTE_VERSION" value="3409" />
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib" />
     <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="env.GDM_XSERVER_LOCATION" value="local" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
-    <property name="gopherProxySet" value="false" />
-    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
-    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
-    <property name="java.class.path" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/bin:/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/lib/junit-4.12.jar:/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/lib/hamcrest-core-1.3.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit4.jar" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junit/TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junitvmwatcher8138220387164148789.properties propsfile=/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00/junit1756973550264587017.properties" />
+    <property name="env.XDG_SEAT" value="seat0" />
+    <property name="env.CLUTTER_BACKEND" value="x11" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="java.class.path" value="/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/bin:/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/lib/junit-4.12.jar:/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/lib/hamcrest-core-1.3.jar:/usr/share/java/ant-launcher-1.9.3.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.HelloWorldTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/junit/TEST-com.flatironschool.javacs.HelloWorldTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/junitvmwatcher7848775191780972647.properties propsfile=/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00/junit4239904913773097480.properties" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.3 compiled on April 8 2014" />
+    <property name="env.XDG_SESSION_ID" value="c1" />
+    <property name="env.MDM_XSERVER_LOCATION" value="local" />
     <property name="ant.file.type.JavaCS" value="file" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="ant.file.type" value="file" />
-    <property name="env.RBENV_SHELL" value="zsh" />
-    <property name="java.vm.specification.version" value="1.8" />
-    <property name="sun.os.patch.level" value="unknown" />
+    <property name="java.vm.specification.version" value="1.7" />
     <property name="sun.cpu.endian" value="little" />
-    <property name="env.HOME" value="/Users/pletcher" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="env.HOME" value="/home/joyce" />
     <property name="debuglevel" value="source,lines,vars" />
-    <property name="java.io.tmpdir" value="/var/folders/8d/vpdn7q2d2pq61rx2bnyk5bl00000gn/T/" />
+    <property name="env.LS_COLORS" value="rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:" />
+    <property name="java.io.tmpdir" value="/tmp" />
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
-    <property name="env.SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.hPZ3uVKcOA/Listeners" />
-    <property name="env.RUBYLIB" value="/usr/local/Cellar/rbenv/1.0.0/rbenv.d/exec/gem-rehash:" />
-    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
-    <property name="os.arch" value="x86_64" />
-    <property name="java.ext.dirs" value="/Users/pletcher/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_74.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
-    <property name="user.dir" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
+    <property name="env.SSH_AUTH_SOCK" value="/run/user/1000/keyring-rGohQC/ssh" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="env.XDG_RUNTIME_DIR" value="/run/user/1000" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="env.XAUTHORITY" value="/home/joyce/.Xauthority" />
+    <property name="user.dir" value="/home/joyce/CodeU/cs-java-hello-world-lab-codeU" />
+    <property name="env.MANDATORY_PATH" value="/usr/share/gconf/cinnamon.mandatory.path" />
     <property name="line.separator" value="&#xa;" />
-    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
-    <property name="basedir" value="/Users/pletcher/Development/code/cs-hello-world-lab/javacs-lab00" />
-    <property name="env.ITERM_PROFILE" value="Default" />
-    <property name="ant.java.version" value="1.8" />
-    <property name="ant.core.lib" value="/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="env.COLORTERM" value="gnome-terminal" />
+    <property name="basedir" value="/home/joyce/CodeU/cs-java-hello-world-lab-codeU/javacs-lab00" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="/usr/share/ant/lib/ant.jar" />
+    <property name="env.USERNAME" value="joyce" />
     <property name="source" value="1.6" />
-    <property name="env.RBENV_DIR" value="/Users/pletcher/Development/code/cs-hello-world-lab" />
     <property name="file.encoding" value="UTF-8" />
-    <property name="env.ZSH_THEME" value="jbergantine" />
-    <property name="java.specification.version" value="1.8" />
+    <property name="env.GPG_AGENT_INFO" value="/run/user/1000/keyring-rGohQC/gpg:0:1" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="env.GNOME_KEYRING_CONTROL" value="/run/user/1000/keyring-rGohQC" />
+    <property name="env.XDG_CONFIG_DIRS" value="/etc/xdg/xdg-cinnamon:/etc/xdg" />
     <property name="ant.project.invoked-targets" value="test" />
+    <property name="env.LESSCLOSE" value="/usr/bin/lesspipe %s %s" />
   </properties>
-  <testcase classname="com.flatironschool.javacs.HelloWorldTest" name="testGetVersion" time="0.002" />
+  <testcase classname="com.flatironschool.javacs.HelloWorldTest" name="testGetVersion" time="0.004" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
